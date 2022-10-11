@@ -1,4 +1,6 @@
 # shared by https://www.reddit.com/user/Saafris/ here https://pastebin.com/pbpJU08R
+# DONE: Args & Network disk handeled
+# python .\move-sub-for-plex.py '\\SYNOFISH\Documents\TV Shows [VO]\Cyberpunk Edgerunners\Cyberpunk.Edgerunners.S01.JAPANESE.1080p.WEBRip.x265-RARBG' 
 # TODO Search for all Movie/TV Show folders
 # TODO Apply this script on all Movie/TV Show folders
 # TODO Remove all RARBG.txt files
