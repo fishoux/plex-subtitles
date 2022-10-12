@@ -5,7 +5,7 @@ from os import walk
 pathToScan = ['C:\\Utils\\dev\\plex-subtitles\\test\\mp4']
 
 # Plex & Str couple
-tmp_ext = '.tmp'
+tmp_ext = '.qt'
 target_ext = '.mp4'
 
 for path in pathToScan: # FOR EACH FOLDERS
